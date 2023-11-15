@@ -3,7 +3,13 @@
     text-align: center;
     font-size: 40px;
 }
-rm -rf .git  
+.shop{
+display: flex;
+flex-direction: column;
+justify-items: center;
+flex-wrap: wrap;
+width: 100%;
+}
 .products{
     width: 100%;
     height: auto;
